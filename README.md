@@ -12,14 +12,12 @@
 
 ## 🚀 About Me
 
-> **Java Full Stack Developer** based in Dallas, TX with **5+ years** of experience building scalable, cloud-native applications and enterprise-grade systems.
+> **AI/ML Engineer** based in Dallas, TX with **5+ years** of experience building scalable, cloud-native applications and enterprise-grade systems.
 
-- 🔭 Currently working as a **Java Full Stack Developer** at State Farm
+- 🔭 Currently working as a **AI/ML Engineer** at State Farm
 - 💻 Passionate about **Microservices Architecture**, **Cloud Computing**, and **Backend Engineering**
 - 🌱 Always learning — currently exploring **AI/ML integrations** and **Cloud-Native patterns**
-- 🤝 Open to collaborations on impactful Java/Spring Boot projects
-- 📫 Reach me at **shanmukhsairam84@gmail.com**
-- 🌐 Portfolio: [shanmukh-portfollio-d93ea2.netlify.app](https://shanmukh-portfollio-d93ea2.netlify.app)
+- 📫 Reach me at **shanmukhsairam84@gmail.com*
 
 ---
 
